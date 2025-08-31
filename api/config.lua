@@ -551,6 +551,7 @@ function pfUI:LoadConfig()
   end
 
   pfUI:UpdateConfig("bars",       nil,           "keydown",          "0")
+  pfUI:UpdateConfig("bars",       nil,           "mousedown",        "0")
   pfUI:UpdateConfig("bars",       nil,           "altself",          "0")
   pfUI:UpdateConfig("bars",       nil,           "rightself",        "0")
   pfUI:UpdateConfig("bars",       nil,           "animation",        "zoomfade")

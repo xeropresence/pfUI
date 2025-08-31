@@ -813,6 +813,7 @@ pfUI_translation["ruRU"] = {
   ["Tracked Reputation"] = "Отслеживаемая репутация",
   ["Tracking Icon Size"] = "Размер иконки отслеживания",
   ["Trigger Actions On Key Down"] = "Активация действий при нажатии клавиши (а не ее отпускании)",
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "Масштаб пользовательского интерфейса",
   ["Unbuffed"] = "Без баффа",
   ["Unit Frame Border Size"] = "Размер границы окна юнита",

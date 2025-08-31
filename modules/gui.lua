@@ -2009,6 +2009,7 @@ pfUI:RegisterModule("gui", "vanilla:tbc", function ()
 
     CreateGUIEntry(T["Actionbar"], T["General"], function()
       CreateConfig(U["bars"], T["Trigger Actions On Key Down"], C.bars, "keydown", "checkbox")
+      CreateConfig(U["bars"], T["Trigger Actions On Mouse Down"], C.bars, "mousedown", "checkbox")
       CreateConfig(U["bars"], T["Self Cast: Alt Key"], C.bars, "altself", "checkbox")
       CreateConfig(U["bars"], T["Self Cast: Right Click"], C.bars, "rightself", "checkbox")
       CreateConfig(U["bars"], T["Button Animation"], C.bars, "animation", "dropdown", pfUI.gui.dropdowns.actionbuttonanimations)

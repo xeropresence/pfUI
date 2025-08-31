@@ -813,6 +813,7 @@ pfUI_translation["enUS"] = {
   ["Tracked Reputation"] = nil,
   ["Tracking Icon Size"] = nil,
   ["Trigger Actions On Key Down"] = nil,
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = nil,
   ["Unbuffed"] = nil,
   ["Unit Frame Border Size"] = nil,

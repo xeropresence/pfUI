@@ -1142,8 +1142,8 @@ pfUI:RegisterModule("actionbar", "vanilla:tbc", function ()
       end
     end
 
-    -- set keydown option
-    if C.bars.keydown == "1" then
+    -- set mousdown option
+    if C.bars.mousedown == "1" then
       f:RegisterForClicks("LeftButtonDown", "RightButtonDown")
     else
       f:RegisterForClicks("LeftButtonUp", "RightButtonUp")

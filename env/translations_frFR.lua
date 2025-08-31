@@ -813,6 +813,7 @@ pfUI_translation["frFR"] = {
   ["Tracked Reputation"] = nil,
   ["Tracking Icon Size"] = "Taille de l'icône de suivi",
   ["Trigger Actions On Key Down"] = "Déclencher des actions sur la touche enfoncée",
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "Echelle de l'interface",
   ["Unbuffed"] = "Sans Améliorations",
   ["Unit Frame Border Size"] = "Taille de la bordure des cadres d'unité",

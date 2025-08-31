@@ -813,6 +813,7 @@ pfUI_translation["esES"] = {
   ["Tracked Reputation"] = "Reputación rastreada",
   ["Tracking Icon Size"] = "Tamaño del icono de rastreo",
   ["Trigger Actions On Key Down"] = "Disparar acciones por presionar la tecla abajo",
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "Escala de IU",
   ["Unbuffed"] = "Sin beneficios",
   ["Unit Frame Border Size"] = "Tamaño del borde del marco de unidad",

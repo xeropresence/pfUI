@@ -813,6 +813,7 @@ pfUI_translation["zhCN"] = {
   ["Tracked Reputation"] = "被追踪的声望",
   ["Tracking Icon Size"] = "追踪图标大小",
   ["Trigger Actions On Key Down"] = "按下即施法",
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "UI缩放比例",
   ["Unbuffed"] = "该Buff缺失者",
   ["Unit Frame Border Size"] = "头像边框大小",

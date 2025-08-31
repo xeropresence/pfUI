@@ -813,6 +813,7 @@ pfUI_translation["zhTW"] = {
   ["Tracked Reputation"] = nil,
   ["Tracking Icon Size"] = "追蹤圖示大小",
   ["Trigger Actions On Key Down"] = nil,
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "UI縮放比例",
   ["Unbuffed"] = "該Buff缺失者",
   ["Unit Frame Border Size"] = "頭像邊框大小",

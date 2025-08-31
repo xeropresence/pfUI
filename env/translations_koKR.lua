@@ -813,6 +813,7 @@ pfUI_translation["koKR"] = {
   ["Tracked Reputation"] = nil,
   ["Tracking Icon Size"] = nil,
   ["Trigger Actions On Key Down"] = nil,
+  ["Trigger Actions On Mouse Down"] = nil,
   ["UI-Scale"] = "UI-크기",
   ["Unbuffed"] = nil,
   ["Unit Frame Border Size"] = "유닛프레임 테두리 크기",
